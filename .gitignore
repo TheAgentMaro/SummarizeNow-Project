@@ -59,3 +59,27 @@ typings/
 
 # next.js build output
 .next
+
+
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# React
+build/
+public/
+.DS_Store
+
+# Docker
+docker-compose.override.yml
+docker-compose.*.yml
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
